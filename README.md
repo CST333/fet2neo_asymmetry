@@ -1,6 +1,8 @@
 # Characterization of dynamic patterns of human fetal to neonatal brain asymmetry with deformation-based morphometry (DBM)
 
-## Overview of the scripts### scripts for data preparation
+## Overview of the scripts
+
+### scripts for data preparation
 * shavel.sh : to create image with bright background
 * flipping.sh : to flip brain images along their axis
 * blurring.sh : script to blur JD maps
