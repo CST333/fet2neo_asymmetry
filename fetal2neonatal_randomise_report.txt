@@ -1,0 +1,2 @@
+randomise options: -i stacked.nii.gz -o fetal_asymmetry_paired_test_5000 -d fetal_asymmetry_design_paired_T_test_demeaned.mat -t fetal_asymmetry_design_paired_T_test_demeaned.con -n 5000 -T --uncorrp -v 6 -e fetal_asymmetry_design_paired_T_test_demeaned.grp -x -m /media/m-proc/celine/brain_asymmetry/brain_asymmetry_analyis/atlas_alberts_37w/template_seg_added_divided_by2_binary_0.75.nii.gz 
+Loading Data: 
