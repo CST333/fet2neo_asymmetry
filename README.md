@@ -1,5 +1,5 @@
 # Characterization of dynamic patterns of human fetal to neonatal brain asymmetry with deformation-based morphometry (DBM)
-
+*Steger C, Moatti C, Payette K, De Silvestro A, Nguyen TD, Coraj S, Yakoub N, Natalucci G, Kottke R, Tuura R, Knirsch W and Jakab A (2023) Characterization of dynamic patterns of human fetal to neonatal brain asymmetry with deformation-based morphometry. Front. Neurosci. 17:1252850. doi: 10.3389/fnins.2023.1252850*
 ## Overview of the scripts
 
 ### scripts for data preparation
